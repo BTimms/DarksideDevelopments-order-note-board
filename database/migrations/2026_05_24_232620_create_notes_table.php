@@ -9,6 +9,10 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
+
+    /**
+     *Added "Order_number","message" and "author" fields that is going to be used for the database table
+     */
     public function up(): void
     {
         Schema::create('notes', function (Blueprint $table) {
