@@ -105,7 +105,6 @@
 
 <div class="header">
     <h1>Order Note Board</h1>
-    <p>Leave and view notes for warehouse orders</p>
 </div>
 
 <div class="container">
